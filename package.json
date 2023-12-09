@@ -17,5 +17,9 @@
         "path": "./themes/dark-modern-plus.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuyang9119/dark-modern-plus.git"
   }
 }
