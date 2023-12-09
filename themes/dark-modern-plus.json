@@ -141,7 +141,7 @@
 		"titleBar.inactiveForeground": "#9d9d9d",
 		"welcomePage.progress.foreground": "#0078d4",
 		"welcomePage.tileBackground": "#2b2b2b",
-		"widget.border": "#313131",
+		"widget.border": "#313131"
 	},
 	"tokenColors": [
 		{
@@ -718,7 +718,7 @@
 			}
 		},
 		{
-			"scope": "variable.other.property",
+			"scope": "entity.name.variable.property",
 			"settings": {
 				"foreground": "#C4C490"
 			}
