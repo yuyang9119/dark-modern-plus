@@ -1,0 +1,21 @@
+{
+  "name": "dark-modern-plus",
+  "displayName": "Dark Modern+",
+  "description": "This theme is a modification of the built-in Default Dark Modern theme, primarily altering the colors of field, property, enum type, struct type, and interface type names to make C# code appear more readable.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Modern+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-modern-plus.json"
+      }
+    ]
+  }
+}
