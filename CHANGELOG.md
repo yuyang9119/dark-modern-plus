@@ -4,6 +4,6 @@ All notable changes to the "dark-modern-plus" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.2] - 2023-12-15
 
-- Initial release
+- Fix semantic highlighting.
