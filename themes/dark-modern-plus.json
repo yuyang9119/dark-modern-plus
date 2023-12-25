@@ -1338,19 +1338,19 @@
 		{
 			"scope": "entity.name.variable.field",
 			"settings": {
-				"foreground": "#98C8E0"
+				"foreground": "#90C8E8"
 			}
 		},
 		{
 			"scope": "variable.other.property",
 			"settings": {
-				"foreground": "#98C8E0"
+				"foreground": "#90C8E8"
 			}
 		},
 		{
 			"scope": "entity.name.type.enum",
 			"settings": {
-				"foreground": "#A8C478"
+				"foreground": "#B0C080"
 			}
 		},
 		{
@@ -1372,7 +1372,7 @@
 			}
 		},
 		{
-			"scope": "entity.name.type.namespace",
+			"scope": "entity.name.namespace",
 			"settings": {
 				"foreground": "#C0C0C0"
 			}
@@ -1405,6 +1405,12 @@
 			"scope": "entity.name.function.member.overload",
 			"settings": {
 				"foreground": "#C0C0C0"
+			}
+		},
+		{
+			"scope": "entity.name.type.type-parameter",
+			"settings": {
+				"foreground": "#B0C080"
 			}
 		},
 		{
