@@ -921,13 +921,13 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#C0C0C0"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.numeric",
 			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#D0B880"
 			}
 		},
 		{
@@ -1410,7 +1410,7 @@
 		{
 			"scope": "entity.name.type.type-parameter",
 			"settings": {
-				"foreground": "#B0C080"
+				"foreground": "#60C4F8"
 			}
 		},
 		{
