@@ -4,6 +4,10 @@ All notable changes to the "dark-modern-plus" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.7] - 2024-1-3
+
+- Fix event colors.
+
 
 ## [0.0.4] - 2024-1-3
 

@@ -811,7 +811,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#90C8E8"
 			}
 		},
 		{
@@ -933,7 +933,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#90C8E8"
 			}
 		},
 		{
@@ -1018,7 +1018,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#90C8E8"
 			}
 		},
 		{
@@ -1074,7 +1074,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#90C8E8"
 			}
 		},
 		{
@@ -1186,7 +1186,7 @@
 				"constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#90C8E8"
 			}
 		},
 		{
@@ -1203,7 +1203,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#90C8E8"
 			}
 		},
 		{
