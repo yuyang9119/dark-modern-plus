@@ -3,7 +3,7 @@
   "displayName": "Dark Modern+",
   "description": "This theme is a modification of the built-in Default Dark Modern theme to make C# code appear more readable.",
   "publisher": "YY-GamePlayer",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.85.0"
   },
