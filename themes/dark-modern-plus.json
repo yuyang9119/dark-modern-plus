@@ -36,12 +36,12 @@
 		"editor.foreground": "#cccccc",
 		"editor.inactiveSelectionBackground": "#3a3d41",
 		"editor.selectionHighlightBackground": "#add6ff26",
-		"editorBracketHighlight.foreground1": "#e8d800",
-		"editorBracketHighlight.foreground2": "#ff80ff",
-		"editorBracketHighlight.foreground3": "#40e0f8",
-		"editorBracketHighlight.foreground4": "#e8d800",
-		"editorBracketHighlight.foreground5": "#ff80ff",
-		"editorBracketHighlight.foreground6": "#40e0f8",
+		"editorBracketHighlight.foreground1": "#e8d000",
+		"editorBracketHighlight.foreground2": "#ff80e0",
+		"editorBracketHighlight.foreground3": "#50e070",
+		"editorBracketHighlight.foreground4": "#e8d000",
+		"editorBracketHighlight.foreground5": "#ff80e0",
+		"editorBracketHighlight.foreground6": "#50e070",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#ff4040",
 		"editorGroup.border": "#ffffff17",
 		"editorGroupHeader.tabsBackground": "#181818",
@@ -1330,6 +1330,30 @@
 			}
 		},
 		{
+			"scope": "punctuation.curlybrace",
+			"settings": {
+				"foreground": "#e8d000"
+			}
+		},
+		{
+			"scope": "punctuation.parenthesis",
+			"settings": {
+				"foreground": "#ff80e0"
+			}
+		},
+		{
+			"scope": "punctuation.squarebracket",
+			"settings": {
+				"foreground": "#ff80e0"
+			}
+		},
+		// {
+		// 	"scope": "punctuation.definition.typeparameters",
+		// 	"settings": {
+		// 		"foreground": "#e8d000"
+		// 	}
+		// },
+		{
 			"scope": "entity.name.function",
 			"settings": {
 				"foreground": "#C8C898"
@@ -1350,7 +1374,7 @@
 		{
 			"scope": "entity.name.type.enum",
 			"settings": {
-				"foreground": "#B0C080"
+				"foreground": "#B0C070"
 			}
 		},
 		{
@@ -1368,7 +1392,7 @@
 		{
 			"scope": "entity.name.type.interface",
 			"settings": {
-				"foreground": "#60C4F8"
+				"foreground": "#40C8E0"
 			}
 		},
 		{
@@ -1410,7 +1434,7 @@
 		{
 			"scope": "entity.name.type.type-parameter",
 			"settings": {
-				"foreground": "#60C4F8"
+				"foreground": "#40C8E0"
 			}
 		},
 		{
