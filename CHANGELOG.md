@@ -4,14 +4,18 @@ All notable changes to the "dark-modern-plus" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.9] - 2024-1-9
 
-## [0.0.8] - 2024-1-3
+- Fine adjustment.
+
+
+## [0.0.8] - 2024-1-9
 
 - Change colors of interfaces and type-parameters.
 - Improve colors of brackets.
 
 
-## [0.0.7] - 2024-1-3
+## [0.0.7] - 2024-1-4
 
 - Fix event colors.
 
