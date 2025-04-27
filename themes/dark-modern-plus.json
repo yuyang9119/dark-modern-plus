@@ -1314,6 +1314,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#C0C0C0"
 			}
 		},
@@ -1392,7 +1393,7 @@
 		{
 			"scope": "entity.name.type.interface",
 			"settings": {
-				"foreground": "#50c8d8"
+				"foreground": "#6bd5e3"
 			}
 		},
 		{
@@ -1434,7 +1435,7 @@
 		{
 			"scope": "entity.name.type.type-parameter",
 			"settings": {
-				"foreground": "#50c8d8"
+				"foreground": "#9caaf6"
 			}
 		},
 		{
