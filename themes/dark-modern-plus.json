@@ -1417,7 +1417,7 @@
 		{
 			"scope": "comment.documentation",
 			"settings": {
-				"foreground": "#9284c8"
+				"foreground": "#9084c8"
 			}
 		},
 		{
@@ -1435,7 +1435,7 @@
 		{
 			"scope": "entity.name.type.type-parameter",
 			"settings": {
-				"foreground": "#80b2ff"
+				"foreground": "#8BB2FF"
 			}
 		},
 		{

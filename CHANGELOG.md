@@ -4,6 +4,14 @@ All notable changes to the "dark-modern-plus" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.0] - 2025-4-29
+
+- Fine-tune the interface color.
+- Adjust the comment color slightly.
+- Assign a distinct color to type parameters.
+- Keep method parameters bold.
+
+
 ## [0.0.9] - 2024-1-9
 
 - Fine adjustment.
