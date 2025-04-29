@@ -4,7 +4,7 @@ All notable changes to the "dark-modern-plus" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.0] - 2025-4-29
+## [2.0.1] - 2025-4-29
 
 - Fine-tune the interface color.
 - Adjust the comment color slightly.
