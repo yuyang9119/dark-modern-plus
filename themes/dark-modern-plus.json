@@ -1393,7 +1393,7 @@
 		{
 			"scope": "entity.name.type.interface",
 			"settings": {
-				"foreground": "#6bd5e3"
+				"foreground": "#60D0E0"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 		{
 			"scope": "comment.documentation",
 			"settings": {
-				"foreground": "#8888C8"
+				"foreground": "#9284c8"
 			}
 		},
 		{
@@ -1435,7 +1435,7 @@
 		{
 			"scope": "entity.name.type.type-parameter",
 			"settings": {
-				"foreground": "#9caaf6"
+				"foreground": "#80b2ff"
 			}
 		},
 		{
